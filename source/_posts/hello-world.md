@@ -1,5 +1,8 @@
 ---
 title: Hello World
+tags: 好
+date: '2018.10.10 13:46:25'
+cover: https://desk-fd.zol-img.com.cn/t_s1280x800c5/g2/M00/05/04/ChMlWV3BSg6IDpumAAPDdbXLqvMAANKpACUf5QAA8ON206.jpg
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
